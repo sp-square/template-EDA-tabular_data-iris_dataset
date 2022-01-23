@@ -1,1 +1,1 @@
-# template-exploratory_data_analysis-iris_dataset
+# template-EDA-tabular_data-iris_dataset
